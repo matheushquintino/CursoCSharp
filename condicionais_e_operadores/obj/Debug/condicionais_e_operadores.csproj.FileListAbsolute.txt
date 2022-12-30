@@ -1,0 +1,8 @@
+C:\Users\Matheus\Documents\Repo\CursoCSharp\condicionais_e_operadores\bin\Debug\condicionais_e_operadores.exe.config
+C:\Users\Matheus\Documents\Repo\CursoCSharp\condicionais_e_operadores\bin\Debug\condicionais_e_operadores.exe
+C:\Users\Matheus\Documents\Repo\CursoCSharp\condicionais_e_operadores\bin\Debug\condicionais_e_operadores.pdb
+C:\Users\Matheus\Documents\Repo\CursoCSharp\condicionais_e_operadores\obj\Debug\condicionais_e_operadores.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\condicionais_e_operadores\obj\Debug\condicionais_e_operadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\condicionais_e_operadores\obj\Debug\condicionais_e_operadores.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\condicionais_e_operadores\obj\Debug\condicionais_e_operadores.exe
+C:\Users\Matheus\Documents\Repo\CursoCSharp\condicionais_e_operadores\obj\Debug\condicionais_e_operadores.pdb
