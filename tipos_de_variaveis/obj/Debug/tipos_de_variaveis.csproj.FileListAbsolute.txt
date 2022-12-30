@@ -1,0 +1,8 @@
+C:\Users\Matheus\Documents\Repo\CursoCSharp\tipos_de_variaveis\bin\Debug\tipos_de_variaveis.exe.config
+C:\Users\Matheus\Documents\Repo\CursoCSharp\tipos_de_variaveis\bin\Debug\tipos_de_variaveis.exe
+C:\Users\Matheus\Documents\Repo\CursoCSharp\tipos_de_variaveis\bin\Debug\tipos_de_variaveis.pdb
+C:\Users\Matheus\Documents\Repo\CursoCSharp\tipos_de_variaveis\obj\Debug\tipos_de_variaveis.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\tipos_de_variaveis\obj\Debug\tipos_de_variaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\tipos_de_variaveis\obj\Debug\tipos_de_variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\tipos_de_variaveis\obj\Debug\tipos_de_variaveis.exe
+C:\Users\Matheus\Documents\Repo\CursoCSharp\tipos_de_variaveis\obj\Debug\tipos_de_variaveis.pdb
