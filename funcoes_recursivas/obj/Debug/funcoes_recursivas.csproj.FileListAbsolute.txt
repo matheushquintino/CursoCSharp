@@ -1,0 +1,8 @@
+C:\Users\Matheus\Documents\Repo\CursoCSharp\funcoes_recursivas\bin\Debug\funcoes_recursivas.exe.config
+C:\Users\Matheus\Documents\Repo\CursoCSharp\funcoes_recursivas\bin\Debug\funcoes_recursivas.exe
+C:\Users\Matheus\Documents\Repo\CursoCSharp\funcoes_recursivas\bin\Debug\funcoes_recursivas.pdb
+C:\Users\Matheus\Documents\Repo\CursoCSharp\funcoes_recursivas\obj\Debug\funcoes_recursivas.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\funcoes_recursivas\obj\Debug\funcoes_recursivas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\funcoes_recursivas\obj\Debug\funcoes_recursivas.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\funcoes_recursivas\obj\Debug\funcoes_recursivas.exe
+C:\Users\Matheus\Documents\Repo\CursoCSharp\funcoes_recursivas\obj\Debug\funcoes_recursivas.pdb
