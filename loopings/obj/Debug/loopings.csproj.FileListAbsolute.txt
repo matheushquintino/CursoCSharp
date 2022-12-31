@@ -1,0 +1,8 @@
+C:\Users\Matheus\Documents\Repo\CursoCSharp\loopings\bin\Debug\loopings.exe.config
+C:\Users\Matheus\Documents\Repo\CursoCSharp\loopings\bin\Debug\loopings.exe
+C:\Users\Matheus\Documents\Repo\CursoCSharp\loopings\bin\Debug\loopings.pdb
+C:\Users\Matheus\Documents\Repo\CursoCSharp\loopings\obj\Debug\loopings.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\loopings\obj\Debug\loopings.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\loopings\obj\Debug\loopings.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\loopings\obj\Debug\loopings.exe
+C:\Users\Matheus\Documents\Repo\CursoCSharp\loopings\obj\Debug\loopings.pdb
