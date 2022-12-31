@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AULA04", "AULA04", "{CCEB9E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopings", "loopings\loopings.csproj", "{410F285C-C5A9-4BB3-A7AB-87C946802B1A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AULA05", "AULA05", "{00DC4847-E1DC-4E8A-80CA-BC2D65BD55E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays_collections", "arrays_collections\arrays_collections.csproj", "{14D508F3-EBD7-4034-9578-F91F9FC177B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{410F285C-C5A9-4BB3-A7AB-87C946802B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{410F285C-C5A9-4BB3-A7AB-87C946802B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{410F285C-C5A9-4BB3-A7AB-87C946802B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D508F3-EBD7-4034-9578-F91F9FC177B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D508F3-EBD7-4034-9578-F91F9FC177B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D508F3-EBD7-4034-9578-F91F9FC177B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D508F3-EBD7-4034-9578-F91F9FC177B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{8D185029-E203-47E7-8C69-B267C06F0309} = {1C366767-16CE-4BCE-990D-8BE3CA29036C}
 		{C7F64651-65FD-4266-BA2A-A2DEBAC4A942} = {3B70CCA6-1A87-4736-9519-433DF1946D84}
 		{410F285C-C5A9-4BB3-A7AB-87C946802B1A} = {CCEB9E60-B271-4357-9C3B-9DFCAFD3E41F}
+		{14D508F3-EBD7-4034-9578-F91F9FC177B7} = {00DC4847-E1DC-4E8A-80CA-BC2D65BD55E0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0C785639-8FCC-41D2-934F-598B15C238F4}

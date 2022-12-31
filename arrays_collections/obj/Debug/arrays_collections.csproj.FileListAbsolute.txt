@@ -1,0 +1,8 @@
+C:\Users\Matheus\Documents\Repo\CursoCSharp\arrays_collections\bin\Debug\arrays_collections.exe.config
+C:\Users\Matheus\Documents\Repo\CursoCSharp\arrays_collections\bin\Debug\arrays_collections.exe
+C:\Users\Matheus\Documents\Repo\CursoCSharp\arrays_collections\bin\Debug\arrays_collections.pdb
+C:\Users\Matheus\Documents\Repo\CursoCSharp\arrays_collections\obj\Debug\arrays_collections.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\arrays_collections\obj\Debug\arrays_collections.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\arrays_collections\obj\Debug\arrays_collections.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Repo\CursoCSharp\arrays_collections\obj\Debug\arrays_collections.exe
+C:\Users\Matheus\Documents\Repo\CursoCSharp\arrays_collections\obj\Debug\arrays_collections.pdb
